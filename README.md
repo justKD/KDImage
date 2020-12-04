@@ -22,7 +22,7 @@ Currently, it uses Material-UI internally and requires both `@material-ui/core` 
 ## Example
 
 ```
-const url = `https://source.unsplash.com/random?sig=001`;
+const url = `https://source.unsplash.com/random`;
 <KDImage src={url} height={200} />
 ```
 
