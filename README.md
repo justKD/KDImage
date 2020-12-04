@@ -8,7 +8,7 @@ A different image source can be provided for the main `src` and the larger modal
 
 Currently, it uses Material-UI internally and requires both `@material-ui/core` and `@material-ui/lab` as dependencies.
 
-[Fork on CodeSandbox](https://codesandbox.io/s/kdimage-2bzo5?file=/README.md)
+[Fork on CodeSandbox](https://codesandbox.io/s/kdimage-i0fz1?file=/README.md)
 
 ## TODO
 
