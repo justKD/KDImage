@@ -16,8 +16,9 @@ Currently, it uses Material-UI internally and requires both `@material-ui/core` 
 - Debounce option?
 - Animation options.
 - Zoom for large image?
+
 - Remove dependency on Material-UI with custom solutions.
-- Gallery component that aggregates large images into a paginated lightbox?
+- Separate gallery component that aggregates large images into a paginated lightbox?
 
 ## Example
 
