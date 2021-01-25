@@ -11,6 +11,7 @@ export const App = (): React.ReactElement => {
           <div key={i}>
             <KDImage
               src={`https://source.unsplash.com/random?sig=${i}`}
+              largeSrc={`https://source.unsplash.com/random?sig=${i}`}
               height={'200px'}
             />
           </div>
